@@ -12,7 +12,8 @@ Independent Security Researcher focused on **Web Application VAPT** and **OWASP 
 ### 📚 Research & Disclosure
 * 🔭 Actively identifying and reporting vulnerabilities via official e-GOV CIRT / NVDP channels.
 * ⚡ Upskilling in: Advanced SQL Injection, Burp Suite, and Network Security.
-* 📫 Connect with me: [LinkedIn](https://bd.linkedin.com/in/abdullah-al-mahi-4838aa239) | [Email](mailto:mdabdullahalmahi.researcher@gmail.com)
+* 📫 Connect with me: [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://bd.linkedin.com/in/abdullah-al-mahi-4838aa239)
+*  | [Email](mailto:mdabdullahalmahi.researcher@gmail.com)
 
 ---
 
