@@ -5,7 +5,7 @@ Independent Security Researcher focused on **Web Application VAPT** and **OWASP 
 ---
 
 ### 🚀 Technical Standing
-* **TryHackMe:** [Top #1,244 Monthly in Bangladesh](https://tryhackme.com/p/lighteninghaxor) 🇧🇩
+* **TryHackMe:** [Top #125 Monthly in Bangladesh](https://tryhackme.com/p/lighteninghaxor) 🇧🇩
 * **All-Time Rank:** #3,677 (Bangladesh)
 * **Specialties:** Web Application Pentesting, SQLi, XSS, Authentication Bypass.
 
